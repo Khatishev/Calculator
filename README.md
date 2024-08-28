@@ -6,5 +6,5 @@ npm install
 <br>
 
 npm run dev
-## Demonstration
+## Display
 <img src="/public/demonstration.png">
