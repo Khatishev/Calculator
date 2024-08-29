@@ -9,4 +9,4 @@ npm run dev
 ## Display
 <img src="/public/demonstration.png">
 
-### Try it yourself https://calculator-pi-olive.vercel.app
+### Link to the website: https://calculator-pi-olive.vercel.app
