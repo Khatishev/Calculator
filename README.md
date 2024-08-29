@@ -8,5 +8,4 @@ npm install
 npm run dev
 ## Demonstration
 <img src="/public/demonstration.png">
-
 ### Link to the website: https://calculator-pi-olive.vercel.app
